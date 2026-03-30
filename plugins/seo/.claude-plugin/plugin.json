@@ -1,0 +1,8 @@
+{
+  "name": "seo",
+  "version": "1.0.0",
+  "description": "Comprehensive SEO toolkit with 23 specialized skills: keyword research, article ideation, content writing, technical audits, local SEO, GEO/AI search optimization, schema markup, sitemaps, Google Search Console integration, and more. Integrates with Airtable, DataForSEO, Google APIs.",
+  "author": {
+    "name": "Gregor Kuhlmann"
+  }
+}
