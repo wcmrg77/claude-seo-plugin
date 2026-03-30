@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wcmrg77-seo",
+  "description": "SEO toolkit plugins by Gregor Kuhlmann — comprehensive SEO skills for keyword research, content creation, audits, local SEO, and AI search optimization.",
+  "owner": {
+    "name": "Gregor Kuhlmann"
+  },
+  "plugins": [
+    {
+      "name": "seo",
+      "description": "Comprehensive SEO toolkit with 23 specialized skills: keyword research, article ideation, content writing, technical audits, local SEO, GEO/AI search optimization, schema markup, sitemaps, Google Search Console integration, and more.",
+      "source": "./plugins/seo",
+      "category": "productivity"
+    }
+  ]
+}
